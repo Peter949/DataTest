@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Script xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Money>123</Money>
+  <Lives>2285</Lives>
+</Script>
